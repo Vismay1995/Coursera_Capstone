@@ -1,9 +1,9 @@
 # Capstone_Toronto_NYC_Neighborhoods (Final Project)
 Jupyter Notebook - Capstone_Toronto_NYC_Neighborhood.ipynb
 
-Report - Capstone_Toronto_NYC_Neighborhood.docx
+Report - Capstone_Toronto_NYC_Neighborhood_pdf.pdf
 
-Presentation - Capstone_Toronto_NYC_Neighborhood.ppt
+Presentation - Capstone_Toronto_NYC_Neighborhood_pdf.pdf
 
 Details of neighborhoods of NYC - FINAL_NYC_BOROUGH_NEIGHBORHOOD.xlsx
 
